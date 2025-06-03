@@ -1,2 +1,2 @@
 # Pytorch_Examples
-Learn from YouTube of Aladdin Persson
+The content I learnt
